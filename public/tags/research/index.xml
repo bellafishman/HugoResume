@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Bella Fishman&#39;s Resume</title>
-    <link>http://localhost:1313/tags/research/</link>
+    <link>https://example.org/tags/research/</link>
     <description>Recent content in Research on Bella Fishman&#39;s Resume</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thermal Runaway Measurement and Severity Level on Li-Ion Batteries. Data in Brief</title>
-      <link>http://localhost:1313/posts/secondpaper/</link>
+      <link>https://example.org/posts/secondpaper/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/secondpaper/</guid>
+      <guid>https://example.org/posts/secondpaper/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.dib.2024.110609&#34;&gt;Thermal Runaway Measurement and Severity Level on Li-Ion Batteries. Data in Brief, Vol. 55, August 2024&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Assistant with Stupp Group</title>
-      <link>http://localhost:1313/posts/stuppgroup/</link>
+      <link>https://example.org/posts/stuppgroup/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stuppgroup/</guid>
+      <guid>https://example.org/posts/stuppgroup/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;research assistant&lt;/em&gt; with the Stupp Group at &lt;strong&gt;Northwestern University&lt;/strong&gt;.&#xA;&lt;em&gt;Synthesized and tested&lt;/em&gt; properties of an oxygen reactive hydrogel using &lt;em&gt;UV-VIS spectroscopy and fluorometry&lt;/em&gt;.&#xA;Enhanced research quality by implementing &lt;em&gt;meticulous data collection and analysis methods&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mechanically induced thermal runaway severity analysis for Li-ion batteries, Journal of Energy Storage</title>
-      <link>http://localhost:1313/posts/firstpaper/</link>
+      <link>https://example.org/posts/firstpaper/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/firstpaper/</guid>
+      <guid>https://example.org/posts/firstpaper/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.est.2023.106798&#34;&gt;Mechanically induced thermal runaway severity analysis for Li-ion batteries, Journal of Energy Storage, Vol. 61, May 2023&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Intern with Ke Group</title>
-      <link>http://localhost:1313/posts/dartmouth/</link>
+      <link>https://example.org/posts/dartmouth/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dartmouth/</guid>
+      <guid>https://example.org/posts/dartmouth/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;research assistant&lt;/em&gt; with the Ke Group at &lt;strong&gt;Dartmouth College&lt;/strong&gt;.&#xA;Optimized synthesis of direct ink writing 3D printable hydrogel for more consistent extrudability. Analyzed gel rheology to unveil insights into its self-healing properties and viscosity. Showcased research findings by presenting a poster at colloquium.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Intern at Oak Ridge National Lab</title>
-      <link>http://localhost:1313/posts/oak-ridge/</link>
+      <link>https://example.org/posts/oak-ridge/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oak-ridge/</guid>
+      <guid>https://example.org/posts/oak-ridge/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;research intern&lt;/em&gt; with the Dr. Hsin Wang at &lt;strong&gt;Oak Ridge National Laboratory&lt;/strong&gt;.&#xA;I worked to test the thermal runaway reactivity of different charges, capacities, and chemistries of Lithium Ion batteries commonly used in cars.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Bella Fishman&#39;s Resume</title>
-    <link>http://localhost:1313/categories/publications/</link>
+    <link>https://example.org/categories/publications/</link>
     <description>Recent content in Publications on Bella Fishman&#39;s Resume</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thermal Runaway Measurement and Severity Level on Li-Ion Batteries. Data in Brief</title>
-      <link>http://localhost:1313/posts/secondpaper/</link>
+      <link>https://example.org/posts/secondpaper/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/secondpaper/</guid>
+      <guid>https://example.org/posts/secondpaper/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.dib.2024.110609&#34;&gt;Thermal Runaway Measurement and Severity Level on Li-Ion Batteries. Data in Brief, Vol. 55, August 2024&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mechanically induced thermal runaway severity analysis for Li-ion batteries, Journal of Energy Storage</title>
-      <link>http://localhost:1313/posts/firstpaper/</link>
+      <link>https://example.org/posts/firstpaper/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/firstpaper/</guid>
+      <guid>https://example.org/posts/firstpaper/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.est.2023.106798&#34;&gt;Mechanically induced thermal runaway severity analysis for Li-ion batteries, Journal of Energy Storage, Vol. 61, May 2023&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

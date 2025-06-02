@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Science on Bella Fishman&#39;s Resume</title>
-    <link>http://localhost:1313/tags/computer-science/</link>
+    <link>https://example.org/tags/computer-science/</link>
     <description>Recent content in Computer Science on Bella Fishman&#39;s Resume</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All Ears Project</title>
-      <link>http://localhost:1313/posts/lyricsproject/</link>
+      <link>https://example.org/posts/lyricsproject/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lyricsproject/</guid>
+      <guid>https://example.org/posts/lyricsproject/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Uses Node.JS, React.JS, Javascript, Express, and Bootstrap.&lt;/strong&gt;&#xA;Implemented search functionality for songs and top Spotify playlists. Integrated Spotify API and Genius Lyrics API to display artist details, album information and song lyrics seamlessly&#xA;&lt;a href=&#34;https://github.com/bellafishman/Lyrics&#34;&gt;All Ears Github&lt;/a&gt;&#xA;&lt;a href=&#34;lyrics-lake.vercel.app&#34;&gt;All Ears App&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>FlashBrief Project</title>
-      <link>http://localhost:1313/posts/flashbrief/</link>
+      <link>https://example.org/posts/flashbrief/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/flashbrief/</guid>
+      <guid>https://example.org/posts/flashbrief/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Uses Google Firebase, React.JS, Python, Node.JS, Bootstrap, OpenAI API&lt;/strong&gt;&#xA;Collaborated in an Agile team to develop an app that generates daily AI-powered podcasts on various topics. Employed OpenAI API for summaries of news articles and for converting scripts into voiced podcasts. Integrated News API and web scraping for relevant up to date information. Deployed Firebase for user authentication, data storage, and cloud functions&#xA;&lt;a href=&#34;https://github.com/392-f24/FlashBriefs&#34;&gt;FlashBrief Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peer Mentor for CS 310</title>
-      <link>http://localhost:1313/posts/peermentor/</link>
+      <link>https://example.org/posts/peermentor/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/peermentor/</guid>
+      <guid>https://example.org/posts/peermentor/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;peer mentor&lt;/em&gt; for &lt;strong&gt;CS 310: Scalable Architectures&lt;/strong&gt; at &lt;strong&gt;Northwestern University&lt;/strong&gt;.&#xA;Assisted students in debugging JavaScript, SQL, and Python code using various debugger tools. Developed deep understanding of scalable cloud architectures and deployment strategies using AWS and Docker.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Song Rater Project</title>
-      <link>http://localhost:1313/posts/songrater/</link>
+      <link>https://example.org/posts/songrater/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/songrater/</guid>
+      <guid>https://example.org/posts/songrater/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Uses AWS API Gateway, Spotify API, AWS Lambda functions with Python, and AWS RDS, .&lt;/strong&gt;&#xA;Developed client-side communicates with AWS API Gateway and Spotify API for song rating and folder creation. Deployed AWS Lambda functions and RDS to manage user information, comments, and song folders.&#xA;&lt;a href=&#34;https://github.com/bellafishman/all-ears&#34;&gt;Song Rater Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

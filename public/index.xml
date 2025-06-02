@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bella Fishman&#39;s Resume</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Bella Fishman&#39;s Resume</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;h1 id=&#34;hello-world-i-am-bella-fishman&#34;&gt;Hello world, I am Bella Fishman!&lt;/h1&gt;&#xA;&lt;p&gt;I am a &lt;strong&gt;senior&lt;/strong&gt; majoring in &lt;strong&gt;&lt;em&gt;Computer Science&lt;/em&gt;&lt;/strong&gt; with a minor in &lt;em&gt;Materials Science&lt;/em&gt; at &lt;strong&gt;Northwestern University&lt;/strong&gt;.&#xA;I am a passionate researcher, computer scientist, and desginer. Thanks for checking out my online resume. Let&amp;rsquo;s connect!&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/bellafishman&#34;&gt;bellafishman&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>All Ears Project</title>
-      <link>http://localhost:1313/posts/lyricsproject/</link>
+      <link>https://example.org/posts/lyricsproject/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lyricsproject/</guid>
+      <guid>https://example.org/posts/lyricsproject/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Uses Node.JS, React.JS, Javascript, Express, and Bootstrap.&lt;/strong&gt;&#xA;Implemented search functionality for songs and top Spotify playlists. Integrated Spotify API and Genius Lyrics API to display artist details, album information and song lyrics seamlessly&#xA;&lt;a href=&#34;https://github.com/bellafishman/Lyrics&#34;&gt;All Ears Github&lt;/a&gt;&#xA;&lt;a href=&#34;lyrics-lake.vercel.app&#34;&gt;All Ears App&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>FlashBrief Project</title>
-      <link>http://localhost:1313/posts/flashbrief/</link>
+      <link>https://example.org/posts/flashbrief/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/flashbrief/</guid>
+      <guid>https://example.org/posts/flashbrief/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Uses Google Firebase, React.JS, Python, Node.JS, Bootstrap, OpenAI API&lt;/strong&gt;&#xA;Collaborated in an Agile team to develop an app that generates daily AI-powered podcasts on various topics. Employed OpenAI API for summaries of news articles and for converting scripts into voiced podcasts. Integrated News API and web scraping for relevant up to date information. Deployed Firebase for user authentication, data storage, and cloud functions&#xA;&lt;a href=&#34;https://github.com/392-f24/FlashBriefs&#34;&gt;FlashBrief Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peer Mentor for CS 310</title>
-      <link>http://localhost:1313/posts/peermentor/</link>
+      <link>https://example.org/posts/peermentor/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/peermentor/</guid>
+      <guid>https://example.org/posts/peermentor/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;peer mentor&lt;/em&gt; for &lt;strong&gt;CS 310: Scalable Architectures&lt;/strong&gt; at &lt;strong&gt;Northwestern University&lt;/strong&gt;.&#xA;Assisted students in debugging JavaScript, SQL, and Python code using various debugger tools. Developed deep understanding of scalable cloud architectures and deployment strategies using AWS and Docker.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thermal Runaway Measurement and Severity Level on Li-Ion Batteries. Data in Brief</title>
-      <link>http://localhost:1313/posts/secondpaper/</link>
+      <link>https://example.org/posts/secondpaper/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/secondpaper/</guid>
+      <guid>https://example.org/posts/secondpaper/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.dib.2024.110609&#34;&gt;Thermal Runaway Measurement and Severity Level on Li-Ion Batteries. Data in Brief, Vol. 55, August 2024&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Song Rater Project</title>
-      <link>http://localhost:1313/posts/songrater/</link>
+      <link>https://example.org/posts/songrater/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/songrater/</guid>
+      <guid>https://example.org/posts/songrater/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Uses AWS API Gateway, Spotify API, AWS Lambda functions with Python, and AWS RDS, .&lt;/strong&gt;&#xA;Developed client-side communicates with AWS API Gateway and Spotify API for song rating and folder creation. Deployed AWS Lambda functions and RDS to manage user information, comments, and song folders.&#xA;&lt;a href=&#34;https://github.com/bellafishman/all-ears&#34;&gt;Song Rater Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Assistant with Stupp Group</title>
-      <link>http://localhost:1313/posts/stuppgroup/</link>
+      <link>https://example.org/posts/stuppgroup/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stuppgroup/</guid>
+      <guid>https://example.org/posts/stuppgroup/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;research assistant&lt;/em&gt; with the Stupp Group at &lt;strong&gt;Northwestern University&lt;/strong&gt;.&#xA;&lt;em&gt;Synthesized and tested&lt;/em&gt; properties of an oxygen reactive hydrogel using &lt;em&gt;UV-VIS spectroscopy and fluorometry&lt;/em&gt;.&#xA;Enhanced research quality by implementing &lt;em&gt;meticulous data collection and analysis methods&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mechanically induced thermal runaway severity analysis for Li-ion batteries, Journal of Energy Storage</title>
-      <link>http://localhost:1313/posts/firstpaper/</link>
+      <link>https://example.org/posts/firstpaper/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/firstpaper/</guid>
+      <guid>https://example.org/posts/firstpaper/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.est.2023.106798&#34;&gt;Mechanically induced thermal runaway severity analysis for Li-ion batteries, Journal of Energy Storage, Vol. 61, May 2023&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Intern with Ke Group</title>
-      <link>http://localhost:1313/posts/dartmouth/</link>
+      <link>https://example.org/posts/dartmouth/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dartmouth/</guid>
+      <guid>https://example.org/posts/dartmouth/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;research assistant&lt;/em&gt; with the Ke Group at &lt;strong&gt;Dartmouth College&lt;/strong&gt;.&#xA;Optimized synthesis of direct ink writing 3D printable hydrogel for more consistent extrudability. Analyzed gel rheology to unveil insights into its self-healing properties and viscosity. Showcased research findings by presenting a poster at colloquium.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Intern at Oak Ridge National Lab</title>
-      <link>http://localhost:1313/posts/oak-ridge/</link>
+      <link>https://example.org/posts/oak-ridge/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oak-ridge/</guid>
+      <guid>https://example.org/posts/oak-ridge/</guid>
       <description>&lt;p&gt;I have experience as a &lt;em&gt;research intern&lt;/em&gt; with the Dr. Hsin Wang at &lt;strong&gt;Oak Ridge National Laboratory&lt;/strong&gt;.&#xA;I worked to test the thermal runaway reactivity of different charges, capacities, and chemistries of Lithium Ion batteries commonly used in cars.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>

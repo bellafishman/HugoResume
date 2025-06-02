@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leadership on Bella Fishman&#39;s Resume</title>
+    <link>http://localhost:1313/tags/leadership/</link>
+    <description>Recent content in Leadership on Bella Fishman&#39;s Resume</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peer Mentor for CS 310</title>
+      <link>http://localhost:1313/posts/peermentor/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/peermentor/</guid>
+      <description>&lt;p&gt;I have experience as a &lt;em&gt;peer mentor&lt;/em&gt; for &lt;strong&gt;CS 310: Scalable Architectures&lt;/strong&gt; at &lt;strong&gt;Northwestern University&lt;/strong&gt;.&#xA;Assisted students in debugging JavaScript, SQL, and Python code using various debugger tools. Developed deep understanding of scalable cloud architectures and deployment strategies using AWS and Docker.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+{{ define "main" }}
+<section id="about">
+  {{ if isset .Site.Params "description" }} {{ .Site.Params.description |
+  $.Page.RenderString }} {{ end }} {{ if isset .Site.Params "social" }}
+  <p>
+    Find me on {{ $length := (len .Site.Params.social) }} {{ range $index, $elem
+    := .Site.Params.social }} {{ if eq $elem.name "email" }}
+    <a
+      class="icon"
+      target="_blank"
+      rel="noopener"
+      href="mailto:{{ $elem.link }}"
+      aria-label="Email"
+    >
+      <i class="fas fa-envelope" aria-hidden="true"></i>
+    </a>
+    {{ else if eq $elem.name "rss" }}
+    <a
+      class="icon"
+      target="_blank"
+      rel="noopener"
+      href="{{ $elem.link }}"
+      aria-label="RSS"
+    >
+      <i class="fas fa-rss" aria-hidden="true"></i>
+    </a>
+    {{ else if eq $elem.name "scholar" }}
+    <a
+      class="icon"
+      target="_blank"
+      rel="noopener"
+      href="{{ $elem.link }}"
+      aria-label="Google Scholar"
+    >
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+    </a>
+    {{ else }}
+    <a
+      class="icon"
+      target="_blank"
+      rel="noopener"
+      href="{{ $elem.link }}"
+      aria-label="{{ $elem.name }}"
+    >
+      <i class="fab fa-{{ lower $elem.name }}" aria-hidden="true"></i>
+    </a>
+    {{ end }} {{ if (lt (add $index 2) $length) }} {{- print " , " -}} {{ else
+    if (lt (add $index 1) $length) }} {{- print " and " -}} {{ else }} {{- print
+    "." -}} {{ end }} {{ end }}
+  </p>
+  {{ end }} {{ partial "optional-about.html" . }}
+</section>
+
+<section id="about-me">
+  <h2>About Me</h2>
+  <p>
+    Hello! I’m Bella Fishman, a senior majoring in Computer Science with a minor
+    in Materials Science at Northwestern University. Welcome to my site!
+  </p>
+</section>
+
+{{ $categories := slice "Work" "Projects" "Publications" }} {{ $dateFormat :=
+.Site.Params.dateFormat | default "2006-01-02" }} {{ range $cat := $categories}}
+{{ $posts := where $.Site.RegularPages "Params.categories" "intersect" (slice
+$cat) }} {{ if gt (len $posts) 0 }}
+<section id="{{ lower $cat }}">
+  <span class="h1">{{ $cat }}</span>
+  <ul class="post-list">
+    {{ range (sort $posts "Date" "desc") }}
+    <li class="post-item">
+      <div class="meta">
+        <time datetime="{{ .Date }}">{{ .Date.Format $dateFormat }}</time>
+      </div>
+      <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }} {{ end }} {{/* Projects section from data file remains unchanged */}}
+{{ $showProjectsList := false }} {{ if (isset .Site.Params "showprojectslist")
+}} {{ $showProjectsList = .Site.Params.showProjectsList }} {{ else if
+.Site.Data.projects }} {{ $showProjectsList = true }} {{ end }} {{ if
+$showProjectsList }} {{ $projectsUrl := "#" }} {{ if isset .Site.Params
+"projectsurl" }} {{ $projectsUrl = .Site.Params.projectsUrl }} {{ end }}
+<section id="projects">
+  <span class="h1"><a href="{{ $projectsUrl }}">Projects</a></span>
+  <ul class="project-list">
+    {{ range .Site.Data.projects.list }}
+    <li class="project-item">
+      <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }} {{ end }}
